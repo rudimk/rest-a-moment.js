@@ -1,0 +1,19 @@
+{
+  "name": "rest-a-moment.js",
+  "version": "1.0.0",
+  "description": "A RESTful wrapper around Moment Timezone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudimk/rest-a-moment.js.git"
+  },
+  "author": "Rudraksh M.K.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rudimk/rest-a-moment.js/issues"
+  },
+  "homepage": "https://github.com/rudimk/rest-a-moment.js#readme"
+}
